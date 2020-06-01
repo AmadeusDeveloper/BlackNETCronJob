@@ -3,4 +3,4 @@ Cron Job for BlackNET
 ## V 1.0
 
 example:
-[](/путь/к/изображению.jpg)
+![Screenshot](img/Screenshot.png)
